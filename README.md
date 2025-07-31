@@ -6,7 +6,7 @@
 - CUDA 11.4
 
 ### Datasets
-Change the "--data_path" in the args to the path where you store the MVSA-Single dataset, and change the '--bert_model' in the args to the path you store the bertmodel. You can download the dataset through the following url: [MVSA-Single]([https://github.com/cvdfoundation/kinetics-dataset](https://www.kaggle.com/datasets/vincemarcs/mvsasingle), [BertModel](https://huggingface.co/google-bert/bert-base-uncased).
+Change the "--data_path" in the args to the path where you store the MVSA-Single dataset, and change the '--bert_model' in the args to the path you store the bertmodel. You can download the dataset through the following url: [MVSA-Single]([https://www.kaggle.com/datasets/vincemarcs/mvsasingle]), [BertModel]([https://huggingface.co/google-bert/bert-base-uncased]).
 
 ### Training
 In order to train the model, you can use  
