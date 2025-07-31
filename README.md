@@ -13,9 +13,9 @@ In order to train the model, you can use
 ```python
 bash my_train.sh
  ```
-in the terminal.
+
 To evaluate the model's performances under disturbances, you can use 
 ```python
 bash my_eval.sh
  ```
-in the terminal.
+
